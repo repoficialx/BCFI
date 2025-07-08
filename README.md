@@ -38,7 +38,8 @@ Olvídate de etiquetas pequeñas o confusas: con BCFI tendrás toda la info al a
 
 ## 📸 Capturas de pantalla
 
-*(Aquí incluir imágenes de la app mostrando la interfaz con resultados para un código de barras)*
+![image](https://github.com/user-attachments/assets/1cdfa829-7743-4efc-9946-b89f2a512527)
+
 
 ---
 
